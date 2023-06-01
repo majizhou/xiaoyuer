@@ -29,7 +29,10 @@ body {
       background-size: contain;
     }
   }
-  
+  @media   only   screen   and ( max-device-width : 428px ) {
+ 宽度：428培训；
+}
+
 #bigbox{
     width: 800px;
 }
